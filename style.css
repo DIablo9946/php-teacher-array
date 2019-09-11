@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.gray {
+  width: 200px;
+  height: 200px;
+  background-color: gray;
+}
+
+.green {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
